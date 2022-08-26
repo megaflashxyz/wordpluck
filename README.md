@@ -1,10 +1,10 @@
 # word pluck
-A browser based typing game. Dusted out from a project from 2012. Uses CreateJS (an ancient version) to render game elements.
+A browser based typing game. Uses CreateJS (an ancient version) to render game elements.
 
-[![screenshot](images/screenshot.png)](https://wordpluck.netlify.com)
+[![screenshot](images/screenshot.png)](https://www.megaflash.xyz/p/wordpluck.html)
 
 
 ## Demo
-[Play word pluck online](https://wordpluck.netlify.com)
+[Play word pluck online](https://www.megaflash.xyz/p/wordpluck.html)
 
 Licensed under the MIT license.
